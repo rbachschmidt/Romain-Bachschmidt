@@ -30,7 +30,7 @@ Depuis, ma curiosité n’a fait que grandir et je continue d’apprendre chaque
 
 ### 📫 Me contacter
 - ✉️ bachschmidtromain@gmail.com  
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/romain-bachschmidt-b0b34a397)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romain-bachschmidt-b0b34a397)
 - 🌍 Portfolio 🔜
 
 
