@@ -1,1 +1,36 @@
 # Romain-Bachschmidt
+# Bonjour, Bienvenue sur ma page !
+
+💻 **Développeur passionné** par le web, le backend et les bases de données.  
+J’aime apprendre de nouvelles technologies/languages et créer des projets utiles et élégants.
+
+---
+
+### 🚀 Langages de prédilection
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+### 🧠 Mon parcours
+Tout a commencé en **6ᵉ**, quand j’ai monté **mon tout premier PC tout seul**.  
+Depuis ce jour, j’adore **bidouiller, explorer et comprendre** comment les choses fonctionnent sur un ordinateur.  
+Entre deux sessions de jeux vidéo 🎮, j’ai pris goût à tout ce qui touche à la technologie.
+
+Arrivé au **lycée**, j’ai saisi l’opportunité de choisir la spécialité **NSI (Numérique et Sciences Informatiques)**,  
+qui m’a permis de **découvrir le monde de la programmation** et de développer ma logique grâce à la **spécialité Mathématiques**.  
+C’est d’ailleurs avec **Python** que j’ai commencé à comprendre les bases de **l’algorithmie** et de la **pensée informatique**.
+
+Depuis, ma curiosité n’a fait que grandir et je continue d’apprendre chaque jour.
+---
+
+### 📫 Me contacter
+- ✉️ bachschmidtromain@gmail.com  
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/romain-bachschmidt-b0b34a397)
+- 🌍 Portfolio 🔜
+
+
