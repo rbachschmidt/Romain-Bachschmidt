@@ -1,7 +1,7 @@
 # Romain-Bachschmidt
 # Bonjour, Bienvenue sur ma page !
 
-💻 **Développeur passionné** par le web, le backend et les bases de données.  
+💻 **Développeur passionné** par l'algorythmie.  
 J’aime apprendre de nouvelles technologies/languages et créer des projets utiles et élégants.
 
 ---
@@ -16,16 +16,16 @@ J’aime apprendre de nouvelles technologies/languages et créer des projets uti
 
 ---
 
-### 🧠 Mon parcours
-Tout a commencé en **6ᵉ**, quand j’ai monté **mon tout premier PC tout seul**.  
-Depuis ce jour, j’adore **bidouiller, explorer et comprendre** comment les choses fonctionnent sur un ordinateur.  
-Entre deux sessions de jeux vidéo 🎮, j’ai pris goût à tout ce qui touche à la technologie.
+### Mon parcours
+Tout a commencé en 6ᵉ, quand j’ai monté mon tout premier PC tout seul en regardant un tuto sur YouTube, j'ai pris goût à tout ce qui touchait à l'Hardware et la composition d'un setup en me renseignant pour ce pc.  
+Depuis ce jour, poussé par mon oncle exerçant le métier de développeur, j'ai pris goût à la technologie et aime bidouiller mon pc, de la modification d'une rom pokemon à l'optimisation de ma connexion internet ( ADSL à l'époque ) étant très mauvaise.  
 
-Arrivé au **lycée**, j’ai saisi l’opportunité de choisir la spécialité **NSI (Numérique et Sciences Informatiques)**,  
-qui m’a permis de **découvrir le monde de la programmation** et de développer ma logique grâce à la **spécialité Mathématiques**.  
-C’est d’ailleurs avec **Python** que j’ai commencé à comprendre les bases de **l’algorithmie** et de la **pensée informatique**.
 
-Depuis, ma curiosité n’a fait que grandir et je continue d’apprendre chaque jour.
+Arrivé au lycée, j’ai saisi l’opportunité de choisir la spécialité NSI (Numérique et Sciences Informatiques),  
+qui m’a permis de découvrir le monde de la programmation et de développer ma logique grâce à la spécialité Mathématiques.  
+C’est d’ailleurs avec Python que j’ai commencé à comprendre les bases de l’algorithmie et de la pensée informatique.
+
+Depuis, ma curiosité n’a fait que grandir et je continue d’apprendre chaque jour notamment Rust ainsi que Java.
 ---
 
 ### 📫 Me contacter
