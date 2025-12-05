@@ -18,7 +18,7 @@ J’aime apprendre de nouvelles technologies/languages et créer des projets uti
 
 ### Mon parcours
 Tout a commencé en 6ᵉ, quand j’ai monté mon tout premier PC tout seul en regardant un tuto sur YouTube, j'ai pris goût à tout ce qui touchait à l'Hardware et la composition d'un setup en me renseignant pour ce pc.  
-Depuis ce jour, poussé par mon oncle exerçant le métier de développeur, j'ai pris goût à la technologie et aime bidouiller mon pc, de la modification d'une rom pokemon à l'optimisation de ma connexion internet ( ADSL à l'époque ) étant très mauvaise.  
+Depuis ce jour, poussé par mon oncle exerçant le métier de développeur, j'ai pris goût à la technologie et aime bidouiller mon pc, de la modification d'une rom pokemon à l'optimisation de mon pc et de ma connexion internet ( ADSL à l'époque ) étant très mauvaise.  
 
 
 Arrivé au lycée, j’ai saisi l’opportunité de choisir la spécialité NSI (Numérique et Sciences Informatiques),  
